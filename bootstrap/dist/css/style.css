@@ -1,0 +1,9 @@
+body {
+	padding-top: 50px;
+}
+
+#header-wrapper {
+	height: 50px;
+	background-color: blue;
+	background-image: url('images/pet1.jpg');
+}
